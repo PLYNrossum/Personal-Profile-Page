@@ -203,6 +203,29 @@ figure:nth-child(8) {
 }
 
 /******************************
+PAGE: CONTACT
+******************************/
+
+#wrap {
+  width: 100%;
+}
+
+.left {
+  width: 500px;
+  float: left;
+  padding: 32px 32px;
+}
+
+.right {
+  width: 250px;
+  float: right;
+  padding: 32px 32px;
+  display: inline;
+}
+
+
+
+/******************************
 FOOTER
 ******************************/
 footer {
